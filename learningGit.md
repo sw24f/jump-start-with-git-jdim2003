@@ -36,7 +36,7 @@ Press alt+up to activate
 **Here are my changes added to the file directly through GitHub**
 
 
-//Here I am going to add some words after pulling the file back onto my local computer//
+*Here I am going to add some words after pulling the file back onto my local computer*
 
 I use nano as my editor when I am making quick changes or typing something small, but nano is pretty inefficient.
 I have VS code and RStudio as well, but sometimes I don't like how you must open an external application to edit a file, especially if it's a quick change
