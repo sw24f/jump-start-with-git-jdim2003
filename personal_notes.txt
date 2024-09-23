@@ -1,0 +1,2 @@
+-I am a senior statistics major at UConn
+-This is my first semester being exposed to GitHub and various other softwares related to data analysis
