@@ -1,4 +1,4 @@
 -I am a senior statistics major at UConn
 -This is my first semester being exposed to GitHub and various other softwares related to data analysis
 
--I hope I don't make a tipo in my words
+-I hope I don't make a typo in my words
