@@ -40,3 +40,5 @@ Press alt+up to activate
 
 I use nano as my editor when I am making quick changes or typing something small, but nano is pretty inefficient.
 I have VS code and RStudio as well, but sometimes I don't like how you must open an external application to edit a file, especially if it's a quick change
+
+Nano is really inconvienent for quickly going to the middle of a sentence, or to scroll down quickly. It also doesn't even recognize typos without first installing typo detecting packages prior
