@@ -1,4 +1,4 @@
-**I'm not sure if this is what what intended when the exercise states to add the text from the Git/GitHub documentation**
+**I'm not sure if this is what was intended when the exercise states to add the text from the Git/GitHub documentation**
 
 Using GitHub
 Become better acquainted with GitHub through our "Using GitHub" articles:
